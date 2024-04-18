@@ -1,0 +1,54 @@
+* {
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #ffff;
+}
+
+table {
+    width: 10px;
+}
+
+td {
+    text-align: center;
+    padding: 10px;
+    color: #000000;
+    border: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+.roxo {
+    background-color: #a662f9;
+}
+
+.rosa {
+    background-color: #fe68db;
+}
+
+.verde {
+    background-color: #7fea9f;
+}
+
+.amarelo {
+    background-color: #ecf98d;
+}
+
+.laranja {
+    background-color: #fe9568;
+}
+
+.azul {
+    background-color: #8d8df9;
+}
+
+.vermelho {
+    background-color: #ed3c3c;
+}
+
+.lilas {
+    background-color: #cb9eed;
+}
